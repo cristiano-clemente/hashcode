@@ -82,7 +82,7 @@ I found very clear explanation from [http://flothesof.github.io/preparing-hashco
 # Our Team
 * Cristiano Clemente [@cpcmc](https://github.com/cpcmc)
 * Hugo Pitorro [@xxxxx](https://github.com/xxxx)
-* Catarina Carreiro [@xxxxxx](https://github.com/xxxxxx) 
+* Catarina Carreiro [@cmccarreiro](https://github.com/cmccarreiro) 
 * Mónica Jin [@xxxxx](https://github.com/xxxxxx) 
 
 from Instituto Superior Técnico (Lisbon, Portugal)
