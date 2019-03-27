@@ -1,7 +1,17 @@
-
 # Google Hash Code 2019
 
-This solution will get around 717698 points (; #851 Worldwide / # in Portugal)
+--Online Qualification Round--
+Score: 1,483
+;# in Hub: 7
+;# in Country: 80
+;# in Worldwide: 4,768
+
+--Extended Round--
+Score: 872,966
+;# in Hub: 3
+;# in Country: 10
+;# in Worldwide: 779
+
 
 ## Qualification Problem
 
@@ -69,15 +79,6 @@ This will give you roughtly the same size photos (in term of the number of tags)
 Then combine two part together; grouping all vertical photos into slides then arrange them.
 
 Hope it helps. **#HashCodeSolved**
-
-## Go further
-I believe that it could be improved a little bit more by apply thw same sliding window logic to group vertical photos. One idea is trying to apply this condition
-  * max(A union B) // maximize a number of common tags within two verticle photos
-  * min(H - n(A)) // H is the largest size of horizontal photos; I want to make sure that all vertical slides have the same number of tags.
-
-## Practice Problem
-
-I found very clear explanation from [http://flothesof.github.io/preparing-hashcode-2018.html](http://flothesof.github.io/preparing-hashcode-2018.html) so this is just a Java implementation from with tiny changes within the same idea.
 
 # Our Team
 * Cristiano Clemente [@cpcmc](https://github.com/cpcmc)
