@@ -2,11 +2,26 @@
 
 Practice Round
 
+Our results:
+
 Score: ???
 
+Pizza Problem:
+
+---
+
+*** for a more detailed explanation read the [Problem Statement](practice-round/pizza.pdf)
+
+How we tackled the problem:
+
+---
 
 
-Online Qualification Round
+
+
+## Online Qualification Round Problem
+
+Our results:
 
 Score: 1,483 points
 
@@ -27,7 +42,8 @@ Country#: 10th
 Worldwide#: 779th
 
 
-## Online Qualification Round Problem
+
+Photo Slideshow:
 
 The idea is to,
 
@@ -45,7 +61,9 @@ They score a slideshow by considering each transition between slides. The score 
 
 *** for a more detailed explanation read the [Problem Statement](qualification-round/photo_slideshow.pdf)
 
-### (tiny) Analysing Problem 
+How we tackled the problem:
+
+---
 
 The idea behide this is a simple greedy algorithm.
 
@@ -95,6 +113,7 @@ Then combine two part together; grouping all vertical photos into slides then ar
 Hope it helps. **#HashCodeSolved**
 
 ---content!---
+
 hub: GCE - Instituto Superior Técnico
 
 
