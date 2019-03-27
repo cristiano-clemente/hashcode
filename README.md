@@ -55,5 +55,5 @@ How we tackled the problem:
 * Catarina Carreiro [@cmccarreiro](https://github.com/cmccarreiro)
 * Mónica Jin [@mokita-j](https://github.com/Mokita-J)
 
-hub: GCE - Instituto Superior Técnico
+hub: [GCE - IST](https://www.gce-neiist.org/)
 from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) (Lisbon, Portugal)
