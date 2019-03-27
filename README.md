@@ -37,7 +37,7 @@ They score a slideshow by considering each transition between slides. The score 
   * one horizontal photo
   * two vertical photos 
 
-*** for a more detailed explanation read the [Problem Statement](https://hashcodejudge.withgoogle.com/#/home)
+*** for a more detailed explanation read the [Problem Statement](qualification-round/photo_slideshow.pdf)
 
 ### (tiny) Analysing Problem 
 
