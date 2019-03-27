@@ -8,13 +8,13 @@ Score: ???
 
 Pizza Problem:
 
----
+...
 
 *** for a more detailed explanation read the [Problem Statement](practice-round/pizza.pdf)
 
 How we tackled the problem:
 
----
+...
 
 
 
@@ -63,7 +63,7 @@ They score a slideshow by considering each transition between slides. The score 
 
 How we tackled the problem:
 
----
+...
 
 The idea behide this is a simple greedy algorithm.
 
