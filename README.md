@@ -10,7 +10,7 @@ Pizza Problem:
 
 ...
 
-*** for a more detailed explanation read the [Pizza Problem Statement](practice-round/pizza.pdf)
+*** for a more detailed explanation read the [Pizza - Problem Statement](practice-round/pizza.pdf)
 
 How we tackled the problem:
 
@@ -39,7 +39,7 @@ a slideshow that is as interesting as possible.
 
 ...
 
-*** for a more detailed explanation read the [Photo Slideshow Problem Statement](qualification-round/photo_slideshow.pdf)
+*** for a more detailed explanation read the [Photo Slideshow - Problem Statement](qualification-round/photo_slideshow.pdf)
 
 How we tackled the problem:
 
