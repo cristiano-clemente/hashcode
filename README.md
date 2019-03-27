@@ -2,9 +2,9 @@
 
 Online Qualification Round
 Score: 1,483
-#Hub: 7
-#Country: 80
-#Worldwide: 4,768
+Hub: 7
+Country: 80
+Worldwide: 4,768
 
 Extended Round
 Score: 872,966
