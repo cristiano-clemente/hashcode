@@ -23,8 +23,9 @@ How we tackled the problem:
 
 Our results:
 
-| Round | Score | Hub# | Country# | Worldwide# |
-| :---- | :---- | :--- | :------- | :--------- |
+|         | Round | Score | Hub# | Country# | Worldwide# |
+| :------ | :---- | :---- | :--- | :------- | :--------- |
+| Score   | Online Qualification Round | 1,483     | 7   | 80 | 4,768
 
 Score: 1,483 points
 
