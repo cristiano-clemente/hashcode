@@ -2,7 +2,7 @@
 
 Online Qualification Round
 Score: 1,483
-# in Hub: 7
+\# in Hub: 7
 # in Country: 80
 # in Worldwide: 4,768
 
