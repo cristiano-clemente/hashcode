@@ -1,21 +1,21 @@
 # Google Hash Code 2019
 
 Online Qualification Round
-Score: 1,483
-Hub: 7
-Country: 80
-Worldwide: 4,768
+Score: 1,483 points
+Hub#: 7th
+Country#: 80th
+Worldwide#: 4,768th
 
 Extended Round
-Score: 872,966
-#Hub: 3
-#Country: 10
-#Worldwide: 779
+Score: 872,966 points
+Hub#: 3rd
+Country#: 10th
+Worldwide#: 779th
 
 
-## Qualification Problem
+## Online Qualification Round Problem
 
-The problem statement is 
+The idea is to
 ```
 Given a list of photos and the tags associated with each photo, arrange the photos into
 a slideshow that is as interesting as possible.
@@ -27,9 +27,9 @@ They score a slideshow by considering each transition between slides. The score 
  
  Each slide could consist of
   * one horizontal photo
-  * two vertical photos
+  * two vertical photos 
 
-*** the detail version please go to [official website](https://hashcodejudge.withgoogle.com/#/home)
+*** for a more detailed explanation read the [Problem Statement](https://hashcodejudge.withgoogle.com/#/home)
 
 ### (tiny) Analysing Problem 
 
@@ -80,7 +80,13 @@ Then combine two part together; grouping all vertical photos into slides then ar
 
 Hope it helps. **#HashCodeSolved**
 
-# Our Team
+---content!---
+hub: GCE - Instituto Superior Técnico
+
+
+
+
+# Our Team ()
 * Cristiano Clemente [@cpcmc](https://github.com/cpcmc)
 * Hugo Pitorro [@xtwigs](https://github.com/xtwigs)
 * Catarina Carreiro [@cmccarreiro](https://github.com/cmccarreiro)
