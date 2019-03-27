@@ -1,5 +1,11 @@
 # Google Hash Code 2019
 
+Practice Round
+
+Score: ???
+
+
+
 Online Qualification Round
 
 Score: 1,483 points
@@ -23,11 +29,11 @@ Worldwide#: 779th
 
 ## Online Qualification Round Problem
 
-The idea is to
-```
-Given a list of photos and the tags associated with each photo, arrange the photos into
+The idea is to,
+
+> Given a list of photos and the tags associated with each photo, arrange the photos into
 a slideshow that is as interesting as possible.
-```
+
 They score a slideshow by considering each transition between slides. The score will *minimum* of these three values 
   * the number of common tags between two consecutive slides or
   * the number of tags that only appears in the first slide or
