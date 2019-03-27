@@ -81,8 +81,8 @@ I found very clear explanation from [http://flothesof.github.io/preparing-hashco
 
 # Our Team
 * Cristiano Clemente [@cpcmc](https://github.com/cpcmc)
-* Hugo Pitorro [@xxxxx](https://github.com/xxxx)
-* Catarina Carreiro [@cmccarreiro](https://github.com/cmccarreiro) 
-* Mónica Jin [@xxxxx](https://github.com/xxxxxx) 
+* Hugo Pitorro [@xtwigs](https://github.com/xtwigs)
+* Catarina Carreiro [@cmccarreiro](https://github.com/cmccarreiro)
+* Mónica Jin [@mokita-j](https://github.com/Mokita-J)
 
-from Instituto Superior Técnico (Lisbon, Portugal)
+from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) (Lisbon, Portugal)
