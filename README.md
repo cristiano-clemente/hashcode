@@ -1,15 +1,23 @@
 # Google Hash Code 2019
 
 Online Qualification Round
+
 Score: 1,483 points
+
 Hub#: 7th
+
 Country#: 80th
+
 Worldwide#: 4,768th
 
 Extended Round
+
 Score: 872,966 points
+
 Hub#: 3rd
+
 Country#: 10th
+
 Worldwide#: 779th
 
 
@@ -84,9 +92,7 @@ Hope it helps. **#HashCodeSolved**
 hub: GCE - Instituto Superior Técnico
 
 
-
-
-# Our Team ()
+# Our Team (πthon)
 * Cristiano Clemente [@cpcmc](https://github.com/cpcmc)
 * Hugo Pitorro [@xtwigs](https://github.com/xtwigs)
 * Catarina Carreiro [@cmccarreiro](https://github.com/cmccarreiro)
