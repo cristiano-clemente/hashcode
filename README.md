@@ -1,6 +1,6 @@
 # Google Hash Code 2019
 
-Practice Round
+## Practice Round
 
 Our results:
 
@@ -19,7 +19,7 @@ How we tackled the problem:
 
 
 
-## Online Qualification Round Problem
+## Online Qualification Round
 
 Our results:
 
