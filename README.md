@@ -1,6 +1,6 @@
 # Google Hash Code 2019
 
---Online Qualification Round--
+Online Qualification Round
 Score: 1,483
 ;# in Hub: 7
 ;# in Country: 80
