@@ -23,10 +23,10 @@ How we tackled the problem:
 
 Our results:
 
-|         | Round                      | Score   | Hub# | Country# | Worldwide# |
-| :------ | :------------------------- | :------ | :--- | :------- | :--------- |
-| Score   | Online Qualification Round | 1,483   | 7    | 80       | 4,768      |
-| Score   | Extended Round             | 872,966 | 3    | 10       | 779        |
+| Round                      | Score   | Hub# | Country# | Worldwide# |
+| :------------------------- | :------ | :--- | :------- | :--------- |
+| Online Qualification Round | 1,483   | 7    | 80       | 4,768      |
+| Extended Round             | 872,966 | 3    | 10       | 779        |
 
 Score: 1,483 points
 
