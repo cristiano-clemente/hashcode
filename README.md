@@ -6,12 +6,11 @@ Our results:
 
 Final Score: xxxx points
 
-Pizza Problem:
-
 The goal is to,
 
-> cut correct slices out of the pizza maximizing the total number of cells in all slices.
-
+```
+cut correct slices out of the pizza maximizing the total number of cells in all slices.
+```
 
 ...
 
@@ -22,9 +21,7 @@ How we tackled the problem:
 ...
 
 
-
-
-## Online Qualification Round
+## Online Qualification Round + Extended Round: Photo Slideshow
 
 Placements:
 
@@ -33,12 +30,9 @@ Placements:
 | Online Qualification Round | 1,483 points   | 7th  | 80th     | 4,768th    |
 | Extended Round             | 872,966 points | 3rd  | 10th     | 779th      |
 
-
 Submissions:
 
-
 Online Qualification Round:
-
 
 | Test                    | 09:06 PM|
 | :---------------------- | :------ |
@@ -62,12 +56,12 @@ Extended Round:
 
 Final Score: 872996 points
 
-Photo Slideshow:
-
 The idea is to,
 
-> Given a list of photos and the tags associated with each photo, arrange the photos into
+```
+Given a list of photos and the tags associated with each photo, arrange the photos into
 a slideshow that is as interesting as possible.
+```
 
 ...
 
