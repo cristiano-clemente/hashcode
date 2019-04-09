@@ -21,13 +21,35 @@ How we tackled the problem:
 
 ## Online Qualification Round
 
-Our results:
+Placements:
 
 | Round                      | Score          | #Hub | #Country | #Worldwide |
 | :------------------------- | :------------- | :--- | :------- | :--------- |
 | Online Qualification Round | 1,483 points   | 7th  | 80th     | 4,768th    |
 | Extended Round             | 872,966 points | 3rd  | 10th     | 779th      |
 
+
+Submissions:
+Online Qualification Round:
+| Test                    | 09:06 |
+| :---------------------- | :---- |
+| A - Example             | 2     |
+| B - Lovely Landscapes   | X     |
+| C - Memorable Moments   | 1483  |
+| D - Pet Pictures        | X     |
+| E - Shiny Selfies       | X     |
+| Total Submission Points | 1485  |
+
+Extended Round:
+
+| Test                    | 09:06 |
+| :---------------------- | :---- |
+| A - Example             | 2     |
+| B - Lovely Landscapes   | X     |
+| C - Memorable Moments   | 1483  |
+| D - Pet Pictures        | X     |
+| E - Shiny Selfies       | X     |
+| Total Submission Points | 1485  |
 
 
 Photo Slideshow:
