@@ -55,6 +55,8 @@ Extended Round:
 
 Final Score: 872996 points
 
+## Problem Statement
+
 The idea is to,
 
 ```
@@ -62,10 +64,54 @@ Given a list of photos and the tags associated with each photo, arrange the phot
 a slideshow that is as interesting as possible.
 ```
 
+The slideshow's total score depends on the score of each transition between slides.
+
+The score of each transition between slides is the *minimum* of:
+  * the number of common tags between two consecutive slides or
+  * the number of tags that only appear in the first slide or
+  * the number of tags that only appear in the second slide
+
+ Each slide consists of:
+  * one horizontal photo or
+  * two vertical photos
+
 ...
 
-How we tackled the problem:
+## How we tackled the problem
 
+We started with seperating photos into two lists; vertical photos and horizontal photos
+
+We divided the problem into 3 parts
+  1. Separating horizontal and vertical photos
+  2. Grouping vertical photos to form a slide
+  3. Arranging slides to form a slideshow
+
+---------------
+
+So, firstly, we ignored the vertical photos. We focused on how to arrange that maximize the score. 
+
+One simple idea we found is that 
+1. order all photos by its number of tags (just this you could get more than 100k points)
+2. optimize it by using a **sliding window**
+
+The sliding window N is that
+* starting with position 0 then you are going to find the next slide which will maximize your score from the next N slides
+* then move that slide to position 1
+* do it again until the final slide
+
+The bigger N will get the better score but I believe that it will be limited around 800k points
+
+---------------
+
+The second part is to group vertical photos into a slide
+
+We also used a simple solution by
+1. order all photos by its number of tags
+2. group the largest with the smallest and the second largest with the second smallest and so on.
+
+This will give you roughtly the same size photos (in term of the number of tags)
+
+Then combine two part together; grouping all vertical photos into slides then arrange them.
 ...
 
 **#HashCodeSolved**
