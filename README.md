@@ -67,8 +67,8 @@ a slideshow that is as interesting as possible.
 The slideshow's total score depends on the score of each transition between slides.
 
 The score of each transition between slides is the *minimum* of:
-  * the number of common tags between two consecutive slides or
-  * the number of tags that only appear in the first slide or
+  * the number of common tags between two consecutive slides
+  * the number of tags that only appear in the first slide
   * the number of tags that only appear in the second slide
 
  Each slide consists of:
