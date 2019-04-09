@@ -14,14 +14,13 @@ cut correct slices out of the pizza maximizing the total number of cells in all 
 
 ...
 
-*** for a more detailed explanation read the [Pizza - Problem Statement]()
 
 How we tackled the problem:
 
 ...
 
 
-## Online Qualification Round + Extended Round: Photo Slideshow
+## Online Qualification Round + Extended Round: [Photo Slideshow](qualification-round/photo_slideshow.pdf)
 
 Placements:
 
@@ -65,14 +64,11 @@ a slideshow that is as interesting as possible.
 
 ...
 
-*** for a more detailed explanation read the [Photo Slideshow - Problem Statement](qualification-round/photo_slideshow.pdf)
-
 How we tackled the problem:
 
 ...
 
 **#HashCodeSolved**
-
 
 
 # Our Team (πthon)
