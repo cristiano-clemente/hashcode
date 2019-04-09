@@ -53,7 +53,7 @@ Extended Round:
 | E - Shiny Selfies       | X       | 112,768 | 112,768 | 203,172 | 275,456 | **330,697** | -           | -       | -       | 330,697
 | Total Submission Points | 0       | 112,770 | 318,545 | 467,608 | 584,259 | 682,214     | 205,487     | 1,464   | 1,530   |
 
-Final Score: 872996 points
+Final Score: 872,996 points
 
 ## Problem Statement
 
