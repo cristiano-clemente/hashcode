@@ -1,6 +1,6 @@
 # Google Hash Code 2019
 
-## Practice Round: Pizza Problem
+## Practice Round: [Pizza Problem](practice-round/pizza.pdf)
 
 Our results:
 
@@ -14,7 +14,7 @@ cut correct slices out of the pizza maximizing the total number of cells in all 
 
 ...
 
-*** for a more detailed explanation read the [Pizza - Problem Statement](practice-round/pizza.pdf)
+*** for a more detailed explanation read the [Pizza - Problem Statement]()
 
 How we tackled the problem:
 
