@@ -1,12 +1,17 @@
 # Google Hash Code 2019
 
-## Practice Round
+## Practice Round: Pizza Problem
 
 Our results:
 
-Score: ???
+Final Score: xxxx points
 
 Pizza Problem:
+
+The goal is to,
+
+> cut correct slices out of the pizza maximizing the total number of cells in all slices.
+
 
 ...
 
@@ -55,6 +60,7 @@ Extended Round:
 | E - Shiny Selfies       | X       | 112768  | 112768  | 203172  | 275456  | **330697** | -          | -       | -       | 330697
 | Total Submission Points | 0       | 112770  | 318545  | 467608  | 584259  | 682214     | 205487     | 1464    | 1530    |
 
+Final Score: 872996 points
 
 Photo Slideshow:
 
