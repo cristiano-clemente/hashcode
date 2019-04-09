@@ -35,25 +35,25 @@ Submissions:
 Online Qualification Round:
 
 
-| Test                    | 09:06 |
-| :---------------------- | :---- |
-| A - Example             | 2     |
-| B - Lovely Landscapes   | X     |
-| C - Memorable Moments   | 1483  |
-| D - Pet Pictures        | X     |
-| E - Shiny Selfies       | X     |
-| Total Submission Points | 1485  |
+| Test                    | 09:06 PM|
+| :---------------------- | :------ |
+| A - Example             | 2       |
+| B - Lovely Landscapes   | X       |
+| C - Memorable Moments   | 1483    |
+| D - Pet Pictures        | X       |
+| E - Shiny Selfies       | X       |
+| Total Submission Points | 1485    |
 
 Extended Round:
 
-| Test                    | 09:06 |
-| :---------------------- | :---- |
-| A - Example             | 2     |
-| B - Lovely Landscapes   | X     |
-| C - Memorable Moments   | 1483  |
-| D - Pet Pictures        | X     |
-| E - Shiny Selfies       | X     |
-| Total Submission Points | 1485  |
+| Test                    | 11:26 PM| 08:29 PM| 08:43 PM| 09:37 PM| 11:05 AM| 11:44 AM   | 09:11 AM   | 10:02 AM| 10:05 AM| Max
+| :---------------------- | :------ | :------ | :------ | :------ | :------ | :--------- | :--------- | :------ | :------ | :----
+| A - Example             | X       | 2       | 2       | 2       | 2       | **2**      | 2          | -       | -       | 2
+| B - Lovely Landscapes   | X       | X       | 27      | 120     | 1476    | 14733      | **205485** | -       | -       | 205485
+| C - Memorable Moments   | X       | X       | 196     | 652     | 1239    | **1530**   | -          | 1464    | 1530    | 1530
+| D - Pet Pictures        | X       | X       | 205552  | 263662  | 306086  | **335252** | -          | -       | -       | 335252 
+| E - Shiny Selfies       | X       | 112768  | 112768  | 203172  | 275456  | **330697** | -          | -       | -       | 330697
+| Total Submission Points | 0       | 112770  | 318545  | 467608  | 584259  | 682214     | 205487     | 1464    | 1530    |
 
 
 Photo Slideshow:
