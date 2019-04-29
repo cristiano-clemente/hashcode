@@ -2,22 +2,19 @@
 
 ## Practice Round: [Pizza Problem](practice-round/pizza.pdf)
 
-Our results:
-
-Final Score: xxxx points
-
 The goal is to,
 
 ```
 cut correct slices out of the pizza maximizing the total number of cells in all slices.
 ```
 
-...
-
-
 How we tackled the problem:
 
-...
+- We mapped the pizza onto a grid.
+
+- We scanned each of the grid lines from left to right.
+
+- When we encountered a valid pizza slice, we added it to the output file and restarted scanning the line from where we had left off. 
 
 
 ## Online Qualification Round + Extended Round: [Photo Slideshow](qualification-round/photo_slideshow.pdf)
@@ -37,10 +34,12 @@ Online Qualification Round:
 | :---------------------- | :------- |
 | A - Example             | 2        |
 | B - Lovely Landscapes   | X        |
-| C - Memorable Moments   | 1483     |
+| C - Memorable Moments   | 1,483    |
 | D - Pet Pictures        | X        |
 | E - Shiny Selfies       | X        |
-| Total Submission Points | 1485     |
+| Total Submission Points | 1,485    |
+
+Final Score: 1,485 points
 
 Extended Round:
 
@@ -57,65 +56,20 @@ Final Score: 872,996 points
 
 ## Problem Statement
 
-The idea is to,
+The goal is to,
 
 ```
 Given a list of photos and the tags associated with each photo, arrange the photos into
 a slideshow that is as interesting as possible.
 ```
 
-The slideshow's total score depends on the score of each transition between slides.
-
-The score of each transition between slides is the *minimum* of:
-  * the number of common tags between two consecutive slides
-  * the number of tags that only appear in the first slide
-  * the number of tags that only appear in the second slide
-
- Each slide consists of:
-  * one horizontal photo or
-  * two vertical photos
-
-...
-
 ## How we tackled the problem
 
-We started with seperating photos into two lists; vertical photos and horizontal photos
+- We divided up the photos into 2 different lists: vertical and horizontal.
 
-We divided the problem into 3 parts
-  1. Separating horizontal and vertical photos
-  2. Grouping vertical photos to form a slide
-  3. Arranging slides to form a slideshow
-
----------------
-
-So, firstly, we ignored the vertical photos. We focused on how to arrange that maximize the score. 
-
-One simple idea we found is that 
-1. order all photos by its number of tags (just this you could get more than 100k points)
-2. optimize it by using a **sliding window**
-
-The sliding window N is that
-* starting with position 0 then you are going to find the next slide which will maximize your score from the next N slides
-* then move that slide to position 1
-* do it again until the final slide
-
-The bigger N will get the better score but I believe that it will be limited around 800k points
-
----------------
-
-The second part is to group vertical photos into a slide
-
-We also used a simple solution by
-1. order all photos by its number of tags
-2. group the largest with the smallest and the second largest with the second smallest and so on.
-
-This will give you roughtly the same size photos (in term of the number of tags)
-
-Then combine two part together; grouping all vertical photos into slides then arrange them.
-...
+- We grouped the vertical photos into pairs, maxizing the combined number of tags.
 
 **#HashCodeSolved**
-
 
 # Our Team (πthon)
 * Cristiano Clemente [@cpcmc](https://github.com/cpcmc)
