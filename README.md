@@ -16,7 +16,7 @@ cut correct slices out of the pizza maximizing the total number of cells in all 
 
 - Each of the grid lines are scanned from left to right.
 
-- When a valid pizza slice is encountered, it is added to the output file and the scanning of the line restarts from where it had left off. 
+- When a valid pizza slice is encountered, it is added to the output file and the scanning of the line restarts from where it left off. 
 
 
 ## Online Qualification Round / Extended Round: [Photo Slideshow](qualification-round/photo_slideshow.pdf)
