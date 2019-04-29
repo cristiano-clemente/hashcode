@@ -14,11 +14,6 @@ with open(str(argv[1])+'.txt', 'r') as f_in:
         i += 1
 f_in.close()
 
-#print(all)
-#print(vert)
-
-
-
 while len(vert) > 1:
     max_tags, id = 0, 0
     for i in range(1, len(vert)):
@@ -33,9 +28,7 @@ while len(vert) > 1:
 
 nao_escolhidas = list(range(len(all)))
 
-#print(all)
 # [num_tags, [tags], (id0,id1)]
-#------------------------------
 tags = {}
 for i in range(len(all)):
     for tag in all[i][1]:
@@ -43,9 +36,6 @@ for i in range(len(all)):
             tags[tag] = (i,)
         else:
             tags[tag] += (i,)
-
-#print(tags)
-#------------------------------
 
 def score(i0, i1):
     x = len(set(all[i0][1]) & set(all[i1][1]))
@@ -61,13 +51,6 @@ def write_out(i):
 
 f_out = open(str(argv[1])+'.out', 'w+')
 f_out.write(str(len(all))+'\n')
-
-
-
-
-
-
-
 
 write_out(0)
 nao_escolhidas.remove(0)
@@ -96,9 +79,6 @@ for i in range(1,len(all)-1): #len(all)-2 times
     if counter % 10000 == 0:
         print(counter)
 
-#print(ja_escolhidas)
-
 write_out(nao_escolhidas[0])
-
 
 f_out.close()
