@@ -68,7 +68,7 @@ for i in range(1,len(all)-1): #len(all)-2 times
                 if curr_score >= max_score:
                     max_score = curr_score
                     winner_i = tg_i
-    if winner_i == 0: #wrong
+    if winner_i == 0: #winner not found
         winner_i = not_chosen[0]
     write_out(winner_i)
     not_chosen.remove(winner_i)
