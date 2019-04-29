@@ -18,6 +18,7 @@ cut correct slices out of the pizza maximizing the total number of cells in all 
 
 - When a valid pizza slice is encountered, it is added to the output file and the scanning of the line restarts from where it left off. 
 
+---
 
 ## Online Qualification Round / Extended Round: [Photo Slideshow](qualification-round/photo_slideshow.pdf)
 
@@ -78,6 +79,8 @@ a slideshow that is as interesting as possible.
 -> The following photo is the one that maximizes the score when combined with the previous one.
 
 **#HashCodeSolved**
+
+---
 
 # Team πthon:
 * Cristiano Clemente [@cpcmc](https://github.com/cpcmc)
