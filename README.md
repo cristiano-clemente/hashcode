@@ -22,6 +22,27 @@ cut correct slices out of the pizza maximizing the total number of cells in all 
 
 ## Online Qualification Round / Extended Round: [Photo Slideshow](qualification-round/photo_slideshow.pdf)
 
+### Problem Statement:
+
+The goal is to,
+
+```
+Given a list of photos and the tags associated with each photo, arrange the photos into
+a slideshow that is as interesting as possible.
+```
+
+### How we tackled the problem:
+
+- The photos are divided up into 2 different lists: vertical and horizontal.
+
+- The vertical photos are grouped into pairs, maximizing the combined number of tags.
+
+- The slideshow starts with the first horizontal photo.
+
+- All the remaining photos are scored against the current last photo in the slideshow.
+
+- The following photo is the one that maximizes the score when combined with the previous one.
+
 ### Placements:
 
 | Round                      | Score          | #Hub | #Country | #Worldwide |
@@ -56,27 +77,6 @@ Final Score: 1,485 points
 | Total Submission Points | 0       | 112,770 | 318,545 | 467,608 | 584,259 | 682,214     | 205,487     | 1,464   | 1,530   |
 
 Final Score: 872,996 points
-
-### Problem Statement:
-
-The goal is to,
-
-```
-Given a list of photos and the tags associated with each photo, arrange the photos into
-a slideshow that is as interesting as possible.
-```
-
-### How we tackled the problem:
-
-- The photos are divided up into 2 different lists: vertical and horizontal.
-
-- The vertical photos are grouped into pairs, maxizing the combined number of tags.
-
--> The slideshow starts with the first horizontal photo.
-
--> All the remaining photos are scored against the current last photo in the slideshow.
-
--> The following photo is the one that maximizes the score when combined with the previous one.
 
 **#HashCodeSolved**
 
