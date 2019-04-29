@@ -2,13 +2,15 @@
 
 ## Practice Round: [Pizza Problem](practice-round/pizza.pdf)
 
+### Problem Statement
+
 The goal is to,
 
 ```
 cut correct slices out of the pizza maximizing the total number of cells in all slices.
 ```
 
-How we tackled the problem:
+### How we tackled the problem
 
 - The pizza is mapped onto a grid.
 
@@ -17,18 +19,18 @@ How we tackled the problem:
 - When a valid pizza slice is encountered, it is added to the output file and the scanning of the line restarts from where it had left off. 
 
 
-## Online Qualification Round + Extended Round: [Photo Slideshow](qualification-round/photo_slideshow.pdf)
+## Online Qualification Round / Extended Round: [Photo Slideshow](qualification-round/photo_slideshow.pdf)
 
-Placements:
+### Placements:
 
 | Round                      | Score          | #Hub | #Country | #Worldwide |
 | :------------------------- | :------------- | :--- | :------- | :--------- |
 | Online Qualification Round | 1,483 points   | 7th  | 80th     | 4,768th    |
 | Extended Round             | 872,966 points | 3rd  | 10th     | 779th      |
 
-Submissions:
+### Submissions:
 
-Online Qualification Round:
+#### Online Qualification Round
 
 | Test                    | 09:06 PM |
 | :---------------------- | :------- |
@@ -41,7 +43,7 @@ Online Qualification Round:
 
 Final Score: 1,485 points
 
-Extended Round:
+#### Extended Round
 
 | Test                    | 11:26 PM| 08:29 PM| 08:43 PM| 09:37 PM| 11:05 AM| 11:44 AM    | 09:11 AM    | 10:02 AM| 10:05 AM|
 | :---------------------- | :------ | :------ | :------ | :------ | :------ | :---------- | :---------- | :------ | :----   |
@@ -54,7 +56,7 @@ Extended Round:
 
 Final Score: 872,996 points
 
-## Problem Statement
+### Problem Statement
 
 The goal is to,
 
@@ -63,7 +65,7 @@ Given a list of photos and the tags associated with each photo, arrange the phot
 a slideshow that is as interesting as possible.
 ```
 
-## How we tackled the problem
+### How we tackled the problem
 
 - The photos are divided up into 2 different lists: vertical and horizontal.
 
