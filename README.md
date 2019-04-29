@@ -2,7 +2,7 @@
 
 ## Practice Round: [Pizza Problem](practice-round/pizza.pdf)
 
-### Problem Statement
+### Problem Statement:
 
 The goal is to,
 
@@ -10,7 +10,7 @@ The goal is to,
 cut correct slices out of the pizza maximizing the total number of cells in all slices.
 ```
 
-### How we tackled the problem
+### How we tackled the problem:
 
 - The pizza is mapped onto a grid.
 
@@ -30,7 +30,7 @@ cut correct slices out of the pizza maximizing the total number of cells in all 
 
 ### Submissions:
 
-#### Online Qualification Round
+#### Online Qualification Round:
 
 | Test                    | 09:06 PM |
 | :---------------------- | :------- |
@@ -43,7 +43,7 @@ cut correct slices out of the pizza maximizing the total number of cells in all 
 
 Final Score: 1,485 points
 
-#### Extended Round
+#### Extended Round:
 
 | Test                    | 11:26 PM| 08:29 PM| 08:43 PM| 09:37 PM| 11:05 AM| 11:44 AM    | 09:11 AM    | 10:02 AM| 10:05 AM|
 | :---------------------- | :------ | :------ | :------ | :------ | :------ | :---------- | :---------- | :------ | :----   |
@@ -56,7 +56,7 @@ Final Score: 1,485 points
 
 Final Score: 872,996 points
 
-### Problem Statement
+### Problem Statement:
 
 The goal is to,
 
@@ -65,7 +65,7 @@ Given a list of photos and the tags associated with each photo, arrange the phot
 a slideshow that is as interesting as possible.
 ```
 
-### How we tackled the problem
+### How we tackled the problem:
 
 - The photos are divided up into 2 different lists: vertical and horizontal.
 
@@ -79,7 +79,7 @@ a slideshow that is as interesting as possible.
 
 **#HashCodeSolved**
 
-# Our Team (πthon)
+# Team πthon:
 * Cristiano Clemente [@cpcmc](https://github.com/cpcmc)
 * Hugo Pitorro [@xtwigs](https://github.com/xtwigs)
 * Catarina Carreiro [@cmccarreiro](https://github.com/cmccarreiro)
