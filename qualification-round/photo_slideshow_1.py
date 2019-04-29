@@ -26,7 +26,7 @@ while len(vert) > 1:
     vert.pop(id)
     vert.pop(0)
 
-nao_escolhidas = list(range(len(all)))
+not_chosen = list(range(len(all)))
 
 # [num_tags, [tags], (id0,id1)]
 tags = {}
@@ -53,32 +53,27 @@ f_out = open(str(argv[1])+'.out', 'w+')
 f_out.write(str(len(all))+'\n')
 
 write_out(0)
-nao_escolhidas.remove(0)
+not_chosen.remove(0)
 
-#nao_escolhidas = [0,1,2,3,4,5,...]
-counter = 0
+#not_chosen = [0,1,2,3,4,5,...]
 curr_i = 0
 for i in range(1,len(all)-1): #len(all)-2 times
     max_score, winner_i, = 0, 0
     temp = (curr_i,)
     for tag in all[curr_i][1]:
         for tg_i in tags[tag]:
-            if (tg_i not in temp) and (tg_i in nao_escolhidas):
+            if (tg_i not in temp) and (tg_i in not_chosen):
                 temp += (tg_i,)
                 curr_score = score(curr_i, tg_i)
                 if curr_score >= max_score:
                     max_score = curr_score
                     winner_i = tg_i
     if winner_i == 0: #wrong
-        winner_i = nao_escolhidas[0]
+        winner_i = not_chosen[0]
     write_out(winner_i)
-    nao_escolhidas.remove(winner_i)
+    not_chosen.remove(winner_i)
     curr_i = winner_i
 
-    counter += 1
-    if counter % 10000 == 0:
-        print(counter)
-
-write_out(nao_escolhidas[0])
+write_out(not_chosen[0])
 
 f_out.close()
