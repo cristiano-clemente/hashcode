@@ -83,7 +83,7 @@ Final Score: 872,996 points
 ---
 
 # Team πthon:
-* Cristiano Clemente [@cristiano-clemente](https://github.com/cristiano-clemente)
+* Cristiano Clemente [@cristianocclemente](https://github.com/cristianocclemente)
 * Hugo Pitorro [@xtwigs](https://github.com/xtwigs)
 * Catarina Carreiro [@cmcarreiro](https://github.com/cmcarreiro)
 * Mónica Jin [@mokita-j](https://github.com/Mokita-J)
